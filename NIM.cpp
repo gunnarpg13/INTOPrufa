@@ -54,7 +54,7 @@ int main( )
 		}
 	}
 	while ( val != 3 );
-
+	cout << "Haha breytti skranni!" << endl;
 	return 0;
 }
 
